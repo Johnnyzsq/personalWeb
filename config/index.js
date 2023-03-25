@@ -1,5 +1,5 @@
 module.exports = {
     build: {
-        assetsPublicPath: process.env.NODE_ENV === "production" ? "/个人asd网站/" : "./"
+        assetsPublicPath: process.env.NODE_ENV === "production" ? "/个人asd网站ad/" : "./"
     }
 }
